@@ -1,0 +1,11 @@
+{
+  "subjectIdentifier": "rmd_admin_1",
+  "attributes": [
+    {
+      "name": "role",
+      "value": "admin",
+      "issuer": "https://acs.attributes.int"
+    }
+  ],
+  "subjectId": "rmd_admin_1"
+}

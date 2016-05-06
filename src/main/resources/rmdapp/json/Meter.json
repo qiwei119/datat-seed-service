@@ -1,0 +1,81 @@
+[
+    {
+        "uri": "/meter/c5-c6-isomerization-reactor-output",
+        "name": "Octane Number",
+        "description": "C5/C6 isomerization process",
+        "dataType": "number",
+        "meterType": "Continuous",
+        "tags": []
+    },
+    {
+        "uri": "/meter/crank-frame-compressionratio",
+        "name": "crank-frame-compressionratio",
+        "description": "Crank Frame Compression Ratio",
+        "dataType": "number",
+        "meterType": "Continuous",
+        "tags": []
+    },
+    {
+        "uri": "/meter/crank-frame-dischargepressure",
+        "name": "crank-frame-dischargepressure",
+        "description": "Crank Frame Discharge Pressure",
+        "dataType": "number",
+        "meterType": "Continuous",
+        "uom": "psi",
+        "tags": []
+    },
+    {
+        "uri": "/meter/crank-frame-maxpressure",
+        "name": "crank-frame-maxpressure",
+        "description": "Crank Frame Max Pressure",
+        "dataType": "number",
+        "meterType": "Continuous",
+        "uom": "psi",
+        "tags": []
+    },
+    {
+        "uri": "/meter/crank-frame-minpressure",
+        "name": "crank-frame-minpressure",
+        "description": "Crank Frame Min Pressure",
+        "dataType": "number",
+        "meterType": "Continuous",
+        "uom": "psi",
+        "tags": []
+    },
+    {
+        "uri": "/meter/crank-frame-suctionpressure",
+        "name": "crank-frame-suctionpressure",
+        "description": "Crank Frame Suction Pressure",
+        "dataType": "number",
+        "meterType": "Continuous",
+        "uom": "psi",
+        "tags": []
+    },
+    {
+        "uri": "/meter/crank-frame-temperature",
+        "name": "crank-frame-temperature",
+        "description": "Crank Frame Temperature",
+        "dataType": "number",
+        "meterType": "Continuous",
+        "uom": "F",
+        "tags": []
+    },
+    {
+        "uri": "/meter/crank-frame-velocity",
+        "name": "crank-frame-velocity",
+        "description": "Crank Frame Velocity",
+        "dataType": "number",
+        "meterType": "Continuous",
+        "uom": "m/s",
+        "tags": []
+    },
+    {
+        "uri": "/meter/summary-output-mbd",
+        "name": "summary-output-mbd",
+        "description": "C5/C6 isomerization process summary output in mbd",
+        "dataType": "number",
+        "meterType": "Continuous",
+        "uom": "mb/d",
+        "tags": []
+    }
+]
