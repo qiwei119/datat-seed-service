@@ -1,4 +1,4 @@
-package com.ge.predix.solsvc.dataseed.asset;
+package com.itp.predix.solsvc.dataseed.asset;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;

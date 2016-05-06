@@ -22,13 +22,13 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.springframework.test.context.web.WebAppConfiguration;
 
 import com.ge.predix.solsvc.bootstrap.ams.common.AssetRestConfig;
-import com.ge.predix.solsvc.dataseed.asset.AssetDataInitialization;
-import com.ge.predix.solsvc.dataseed.asset.ClassificationDataInitialization;
-import com.ge.predix.solsvc.dataseed.asset.GroupDataInitialization;
-import com.ge.predix.solsvc.dataseed.asset.MeterDataInitialization;
 import com.ge.predix.solsvc.dataseed.boot.DataseedServiceApplication;
 import com.ge.predix.solsvc.dataseed.util.SpreadSheetParser;
 import com.ge.predix.solsvc.restclient.impl.RestClient;
+import com.itp.predix.solsvc.dataseed.asset.AssetDataInitialization;
+import com.itp.predix.solsvc.dataseed.asset.ClassificationDataInitialization;
+import com.itp.predix.solsvc.dataseed.asset.GroupDataInitialization;
+import com.itp.predix.solsvc.dataseed.asset.MeterDataInitialization;
 
 //@RunWith(SpringJUnit4ClassRunner.class)
 /**

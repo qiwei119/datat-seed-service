@@ -8,11 +8,11 @@ import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 import org.springframework.test.context.web.WebAppConfiguration;
 
-import com.ge.predix.solsvc.dataseed.asset.AssetDataHarvest;
 import com.ge.predix.solsvc.dataseed.boot.DataseedServiceApplication;
 import com.ge.predix.solsvc.restclient.config.IOauthRestConfig;
 import com.ge.predix.solsvc.restclient.impl.RestClient;
 import com.ge.predix.solsvc.restclient.impl.Token;
+import com.itp.predix.solsvc.dataseed.asset.AssetDataHarvest;
 
 //@RunWith(SpringJUnit4ClassRunner.class)
 /**

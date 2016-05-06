@@ -30,13 +30,13 @@ import org.springframework.web.client.HttpClientErrorException;
 import org.springframework.web.multipart.MultipartFile;
 
 import com.ge.predix.solsvc.bootstrap.ams.common.AssetRestConfig;
-import com.ge.predix.solsvc.dataseed.asset.AssetDataInitialization;
-import com.ge.predix.solsvc.dataseed.asset.ClassificationDataInitialization;
-import com.ge.predix.solsvc.dataseed.asset.GroupDataInitialization;
-import com.ge.predix.solsvc.dataseed.asset.MeterDataInitialization;
 import com.ge.predix.solsvc.dataseed.util.SpreadSheetParser;
 import com.ge.predix.solsvc.restclient.config.IOauthRestConfig;
 import com.ge.predix.solsvc.restclient.impl.RestClient;
+import com.itp.predix.solsvc.dataseed.asset.AssetDataInitialization;
+import com.itp.predix.solsvc.dataseed.asset.ClassificationDataInitialization;
+import com.itp.predix.solsvc.dataseed.asset.GroupDataInitialization;
+import com.itp.predix.solsvc.dataseed.asset.MeterDataInitialization;
 
 //import com.ge.predix.solsvc.dataseed.asset.AssetDataInitialization;
 

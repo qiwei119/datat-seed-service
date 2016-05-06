@@ -1,4 +1,4 @@
-package com.ge.predix.solsvc.dataseed.asset;
+package com.itp.predix.solsvc.dataseed.asset;
 
 import java.beans.PropertyDescriptor;
 import java.io.FileNotFoundException;

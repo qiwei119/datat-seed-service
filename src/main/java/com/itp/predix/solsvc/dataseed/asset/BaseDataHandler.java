@@ -1,4 +1,4 @@
-package com.ge.predix.solsvc.dataseed.asset;
+package com.itp.predix.solsvc.dataseed.asset;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
